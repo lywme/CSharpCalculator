@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MyCalc.AboutMyCalc.resources
+obj\Debug\MyCalc.Properties.Resources.resources
+obj\Debug\MyCalc.csproj.GenerateResource.Cache
+bin\Debug\MyCalc.exe
+bin\Debug\MyCalc.pdb
+obj\Debug\MyCalc.exe
+obj\Debug\MyCalc.pdb
+obj\Debug\MyCalc.Form1.resources
+obj\Debug\MyCalc.Form2.resources
